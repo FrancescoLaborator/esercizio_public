@@ -1,0 +1,2 @@
+reader: {'buffer_len':3}
+writer: {'freq':1, 'min':3, 'max': 7}

@@ -1,0 +1,6 @@
+# Timer.action
+float32 duration_time # goal
+---
+float32 total_time_elapsed # result
+---
+float32 partial_time_elapsed # feedback 

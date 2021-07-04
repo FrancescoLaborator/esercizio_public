@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="test_pkg" type="reader_node.py" name="reader" output="screen"/>
+	<node pkg="test_pkg" type="writer_node.py" name="writer" />
+</launch>
